@@ -1,0 +1,24 @@
+.experience-section {
+    background-color: #1e1e2e;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.experience-item {
+    margin-bottom: 20px;
+}
+
+.experience-item h3 {
+    font-size: 1.5rem;
+    color: #58a6ff;
+}
+
+.experience-item p {
+    font-size: 1rem;
+}
+
+.experience-item .date {
+    color: #888;
+    font-size: 0.9rem;
+}
